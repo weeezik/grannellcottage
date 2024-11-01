@@ -9,5 +9,6 @@ Rails.application.routes.draw do
   root "pages#index"
 
   get "/aboutus", to: "pages#aboutus"
-
+  get "/history", to: "pages#history"
+  get "/catalog", to: "pages#catalog"
 end
