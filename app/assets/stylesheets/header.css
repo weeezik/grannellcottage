@@ -13,10 +13,12 @@
   align-items: center;
   padding: 15px 0px;
   gap: 30px;
+  font-size: 24px;
 }
 
 .left-h {
   min-width: 220px;
+  font-size: 32px;
 }
 
 a {
@@ -25,5 +27,4 @@ a {
   font-family: "EB Garamond", serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 32px;
 }
